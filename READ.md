@@ -2,4 +2,3 @@
 Vamos la
 OK
 OK
-Reverter isso
